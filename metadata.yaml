@@ -1,5 +1,8 @@
 _repo: Satanstoe--Or-the-Littlepage-Manuscripts.-A-Tale-of-the-Colony_8880
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cooper, James Fenimore
@@ -16,6 +19,8 @@ description: "Satanstoe is a 1845 novel by the early American novelist James Fen
   \ Cooper. The novel is the first of a three novel cycle, followed by The Chainbearer\
   \ and The Redskins. The novel is a fictional autobiography which explores the 18th\
   \ century colony of New York.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8880#Satanstoe--Or-the-Littlepage-Manuscripts.-A-Tale-of-the-Colony
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
 identifiers:
